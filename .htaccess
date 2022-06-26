@@ -1,0 +1,4 @@
+AuthType basic
+AuthName "restricted area"
+AuthUserFile "C:\xampp\passwd\.htpasswd"
+require valid-user
